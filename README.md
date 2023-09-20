@@ -1,2 +1,2 @@
-# LOLCODE-interpreter
+# LOLCODE interpreter
  
