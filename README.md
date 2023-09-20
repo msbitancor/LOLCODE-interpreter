@@ -1,4 +1,4 @@
-# LOLCODE interpreter
+# LOLCODE Interpreter
 ### Bitancor, Marlon S.
 
 ### App Overview
