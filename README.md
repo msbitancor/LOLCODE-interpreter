@@ -2,7 +2,7 @@
 ### Bitancor, Marlon S.
 
 ### App Overview
-This is a A programming language interpreter designed to replicate the LOLCODE programming language syntax and functions
+A programming language interpreter designed to replicate the LOLCODE programming language syntax and functions
 
 ### App features
 1. File Opening
